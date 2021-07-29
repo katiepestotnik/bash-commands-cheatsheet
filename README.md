@@ -24,9 +24,20 @@
 >
 >clear: clears working window<br>
 
+---
 ### GIT
 
-##### An Image of the git version control flow
-![](git-command-shot.png)
+### Git Steps
+To be completed in **working** directory for your project
+
+1. git init
+2. git add .
+3. git commit -m "Commit message"
+4. git remote add origin (http or SSH key) 
+5. git push origin main
+
+---
+##### Shell image of git steps
+![](git-steps.jpg)
    
 
