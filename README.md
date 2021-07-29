@@ -24,4 +24,9 @@
 >
 >clear: clears working window<br>
 
+### GIT
+
+##### An Image of the git version control flow
+![](git-command-shot.png)
+   
 
